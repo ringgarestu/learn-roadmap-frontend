@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+.social-link {
+  display: flex;
+  align-items: center;
+}
+.social-link img {
+  width: 70px;
+  height: 70px;
+}
